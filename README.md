@@ -24,3 +24,10 @@ Life is about exploring new possibilities, so let's keep coding!
 通道可用于两个 goroutine 之间通过传递一个指定类型的值来同步运行和通讯。操作符 <- 用于指定通道的方向，发送或接收。如果未指定方向，则为双向通道。
 
 先进先出。
+### Go 环境
+go path 下放项目
+go root 都要配置
+### 安装brew
+[官网传送门](https://brew.sh/index_zh-cn)
+[国内传送门](https://gitee.com/cunkai/HomebrewCN)
+`/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"`
